@@ -6,7 +6,7 @@ This project implements bidirectional communication between two seperate process
 
 ## Features
 
-- **Bidirectional Communication**: Both processes are able to send commands to eachother.
+- **Bidirectional Communication**: Both processes are able to send commands to each other.
 - **Mutex for Thread Safety**: By performing mutex locks we ensure safe access to shared resources.
 - **Event Based**: We use events to signal when events are ready to be performed.
 
